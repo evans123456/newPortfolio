@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "All",
+        "filter": "*"
+    },
+    {
+        "id": "2",
+        "title": "ReactJs",
+        "filter": "reactjs"
+    },
+    {
+        "id": "3",
+        "title": "Django",
+        "filter": "django"
+    },
+    {
+        "id": "4",
+        "title": "ReactJS and Django",
+        "filter": "reactjsDjango"
+    },
+    {
+        "id": "5",
+        "title": "Client",
+        "filter": "client"
+    }
+]

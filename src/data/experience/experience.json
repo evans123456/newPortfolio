@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "freelance - Fullstack Web development",
+        "date": "2020 March - Present",
+        "description": "Currently working on a mental health web application to help people suffering from mental illness meet councillors and have their sessions live through the platform. Project includes live video call, online payments, forums, user roles etc. live demo is available at https://ellnes.com/"
+    },
+    {
+        "id": "2",
+        "title": "Internet Solutions- Technical support engineer",
+        "date": "2019 September - 2020 March",
+        "description": "▪ Receive support queries through the available interaction channels, diagnose, identify, isolate and resolve issues that could be associated with WAN/LAN solution functionally such as network connectivity, mail application errors, cambium network radios, fiber switches,routers etc. "
+    },
+    {
+        "id": "3",
+        "title": "BuruBuru Tabernacle of Praise(BTOP)",
+        "date": "2020 May - 2020 June",
+        "description": "Following the COVID-19 pandemic and the restrictions on places of worship to 100 people. This church website built by yours truly allows worshippers to book seats through the church website. The user is then given a ticket with their name and the seat they have been assigned. The system also caters for reserved seats for some key departments. Apart from knowing the congregation, Through the platform, the administration can use the data they collect for contact tracing as one can be able to reliably tell who sat where."
+    },
+    {
+        "id": "4",
+        "title": "Just connect Events Africa",
+        "date": "2019 August - 2019 September",
+        "description": "I was contracted to create a user-friendly, platform for generating, purchasing and printing unique tickets despite displaying the organization information. Payments were to be done online via Mpesa and the ticket generated immediately. An admin dashboard showing all attending, and their payment logs were also strict requirements that were diligently met. demo site -> https://justconnect.pythonanywhere.com/ "
+    },
+    {
+        "id": "5",
+        "title": "USAID/HealthIT",
+        "date": "2015 May - 2020 April",
+        "description": "In a team of 4, we built a web applications for the health IT project used by the Ministry of Health. The web application was to help combat the problems the Dhis2 system was facing such as faster access to resources,which is what we worked on. The project was built using ReactJS,Redux and heavy use of APIs. The project was a Metadata Dictionary that helps the users of the dhis2 platform get access to information faster with a more user-friendly interface. As the live project is held within the system, the documentation of the product can be viewed from https://metadatadhis2.readthedocs.io/en/latest/ and the project repository is https://github.com/kanji-karanja/MetaDataDHIS2 . For this project, we relied heavily on open-source platforms such as Github to allow collaboration by the team members."
+    },
+    {
+        "id": "6",
+        "title": "Dimension Data - IT Support Specialist",
+        "date": "2015 May - 2020 April",
+        "description": "Worked at the World Trade Organization at KICC where my role was to Provide technical support and one on one customer service for international guests. As an IT support specialist, I was committed to diagnosing, reproducing, and fixing customer software and hardware issues and  If requested, to escalate the customer's case to a subject matter expert."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "title": "ellnes counselling",
+        "category": "gallery-item-visible reactjsDjango",
+        "link": "https://ellnes.com/",
+        "imgLink": "assets/img/works/ellnes.jpg",
+        "button": "view project"
+    },
+    {
+        "id": "2",
+        "title": "DHIS2 Metadata Dictionary",
+        "category": "gallery-item-visible client reactjs",
+        "link": "https://metadatadhis2.readthedocs.io/en/latest/index.html",
+        "imgLink": "assets/img/works/dhis2.png",
+        "button": "view project"
+    },
+    {
+        "id": "3",
+        "title": "Buruburu Tabernacle of praise",
+        "category": "gallery-item-visible django client",
+        "link": "https://www.btop.co.ke/",
+        "imgLink": "assets/img/works/btop.jpeg",
+        "button": "view project"
+    },
+    {
+        "id": "4",
+        "title": "JustConnect Worship festival",
+        "category": "gallery-item-visible django client",
+        "link": "https://justconnect.pythonanywhere.com/",
+        "imgLink": "assets/img/works/justconnect.jpg",
+        "button": "view project"
+    },
+    {
+        "id": "5",
+        "title": "Human Resource Management App",
+        "category": "reactjsDjango",
+        "link": "https://hrms-liard.vercel.app/#/login",
+        "imgLink": "assets/img/works/hr.jpeg",
+        "button": "view project"
+    },
+    {
+        "id": "6",
+        "title": "Ecommerce website",
+        "category": "reactjs",
+        "link": "https://darity100.vercel.app/",
+        "imgLink": "assets/img/works/ecommerce.png",
+        "button": "view project"
+    },
+    {
+        "id": "7",
+        "title": "Ongoing project(UI only)",
+        "category": "client reactjs",
+        "link": "https://farmage.vercel.app/#/auth/login",
+        "imgLink": "assets/img/works/farm.jpeg",
+        "button": "view project"
+    }
+]
