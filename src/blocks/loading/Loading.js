@@ -38,7 +38,7 @@ class Loading extends Component {
               <div className="logo logo-secondary">
                 <img
                   className="animated zoomin"
-                  src="assets/img/logo/logo-2.svg"
+                  src="assets/img/logo/newlogo.png"
                   alt="Logo"
                 />
               </div>

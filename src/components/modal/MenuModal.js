@@ -57,7 +57,7 @@ class MenuModal extends Component {
               className="logo logo-secondary transform-scale-h"
               href={process.env.PUBLIC_URL + "/"}
             >
-              <img src="assets/img/logo/logo-2.svg" alt="Logo" />
+              <img src="assets/img/logo/newlogo.png" alt="Logo" />
             </a>
 
             <button

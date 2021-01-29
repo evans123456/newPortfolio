@@ -22,7 +22,16 @@ const Awards = () => {
                     <h6 className="mt-1">{item.institution}</h6>
                     <p className="mt-0">{item.position}</p>
 
-                    {item.link ? <p className="mt-2">{item.link}</p> : null}
+                    {item.link ? (
+                      <a
+                        title="Logo"
+                        className="logo logo-secondary transform-scale-h"
+                        href={item.link}
+                        target="_blank"
+                      >
+                        <span className="align-middle">see award</span>{" "}
+                      </a>
+                    ) : null}
                   </div>
                 </div>
               </div>
