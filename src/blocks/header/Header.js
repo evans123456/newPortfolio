@@ -11,7 +11,7 @@ const Header = () => {
           <Logo image={"/assets/img/logo/newlogo.png"} />
         </div>
 
-        <SearchModal />
+        {/* <SearchModal /> */}
 
         <MenuModal />
       </div>

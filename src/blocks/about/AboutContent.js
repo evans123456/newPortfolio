@@ -4,9 +4,8 @@ const AboutContent = () => {
   return (
     <div id="about" className="block">
       <h2>
-        <span className="line">A passionate</span>
-        <br /> frontend developer and backend developer, data scientist, IT
-        consultant.
+        <span className="line">Who</span>
+        <br /> am i
       </h2>
 
       <div className="row bg-half-ring-left gutter-width-lg">
