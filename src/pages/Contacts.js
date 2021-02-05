@@ -70,15 +70,15 @@ const Contacts = () => {
                     <div className="list-group-item">
                       <h4>Country</h4>
 
-                      <p>Great Britain</p>
+                      <p>United Kingdom</p>
                     </div>
 
                     <div className="list-group-item">
                       <h4>Phone</h4>
 
                       <p>
-                        <a title="+44-719-338-4628" href="tel:+44-719-338-4628">
-                          +44 719-338-4628
+                        <a title="+44 786-245-0446" href="tel:+44 786-245-0446">
+                          +44 786-245-0446
                         </a>
                       </p>
                       <p>
@@ -107,13 +107,13 @@ const Contacts = () => {
               </div>
             </div>
 
-            <div className="block spacer p-top-xl">
+            {/* <div className="block spacer p-top-xl">
               <h2>
                 Fill up a <span className="line">form</span>
               </h2>
 
               <ContactForm />
-            </div>
+            </div> */}
           </div>
         </section>
       </main>
