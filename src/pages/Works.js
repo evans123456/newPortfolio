@@ -1,49 +1,52 @@
-import React, { Fragment } from 'react';
-import MetaTags from 'react-meta-tags';
+import React, { Fragment } from "react";
+import MetaTags from "react-meta-tags";
 
-import Loading from '../blocks/loading/Loading';
-import Header from '../blocks/header/Header';
-import Footer from '../blocks/footer/Footer';
-
-import PageTitleWorks from '../blocks/page-title/PageTitleWorks';
-import Gallery from '../blocks/gallery/Gallery';
+import Loading from "../blocks/loading/Loading";
+import Header from "../blocks/header/Header";
+import Footer from "../blocks/footer/Footer";
+import Github from "./Github";
+import PageTitleWorks from "../blocks/page-title/PageTitleWorks";
+import Gallery from "../blocks/gallery/Gallery";
 
 const Works = () => {
-    document.body.classList.add( 'archive' );
-    document.body.classList.add( 'bg-fixed' );
-    document.body.classList.add( 'bg-line' );
+  document.body.classList.add("archive");
+  document.body.classList.add("bg-fixed");
+  document.body.classList.add("bg-line");
 
-    return (
-        <Fragment>
-            <MetaTags>
-                <meta charSet="UTF-8"/>
-                <title>Works | Oxer - Minimal Portfolio React Template</title>
+  return (
+    <Fragment>
+      <MetaTags>
+        <meta charSet="UTF-8" />
+        <title>Works |Wahome Gichuki</title>
 
-                <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-                <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <meta name="description" content="" />
-                <meta name="keywords" content="" />
-                <meta name="robots" content="index, follow, noodp" />
-                <meta name="googlebot" content="index, follow" />
-                <meta name="google" content="notranslate" />
-                <meta name="format-detection" content="telephone=no" />
-            </MetaTags>
+        <meta httpEquiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="robots" content="index, follow, noodp" />
+        <meta name="googlebot" content="index, follow" />
+        <meta name="google" content="notranslate" />
+        <meta name="format-detection" content="telephone=no" />
+      </MetaTags>
 
-            <Loading />
+      <Loading />
 
-            <Header />
+      <Header />
 
-            <main id="main" className="site-main">
-                <PageTitleWorks />
+      <main id="main" className="site-main">
+        <PageTitleWorks />
 
-                <section id="page-content" className="spacer p-top-xl">
-                    <Gallery paddingBottomClass=" pb-0"/>
-                </section>
-            </main>
+        <section id="page-content" className="spacer p-top-xl">
+          <Gallery paddingBottomClass=" pb-0" />
+        </section>
+        <section id="page-content" className="spacer p-top-xl">
+          <Github paddingBottomClass=" pb-0" />
+        </section>
+      </main>
 
-            <Footer />
-        </Fragment>
-    );
+      <Footer />
+    </Fragment>
+  );
 };
 
 export default Works;
