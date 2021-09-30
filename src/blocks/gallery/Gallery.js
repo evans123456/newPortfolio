@@ -146,7 +146,7 @@ class Gallery extends Component {
               className="btn btn-link border-0 p-0 transform-scale-h"
               href={process.env.PUBLIC_URL + "/works"}
             >
-              See more
+              See more (github)
               <i className="icon-c icon-arrow-right" />
             </a>
           </div>
