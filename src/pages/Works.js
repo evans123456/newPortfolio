@@ -39,6 +39,19 @@ const Works = () => {
         <section id="page-content" className="spacer p-top-xl">
           <Gallery paddingBottomClass=" pb-0" />
         </section>
+
+        <section id="page-title">
+          <div className="wrapper">
+            <div className="title position-relative">
+              <h1>
+                Github<span className="dot">.</span>
+              </h1>
+
+              <div className="title-clone">Github.</div>
+            </div>
+          </div>
+        </section>
+
         <section id="page-content" className="spacer p-top-xl">
           <Github paddingBottomClass=" pb-0" />
         </section>

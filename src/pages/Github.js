@@ -41,8 +41,10 @@ export class Github extends Component {
         <div className="wrapper">
           <div className="title position-relative">
             <h2>
-              Github <span className="dot">public repositories.</span>
+              <span className="dot">public repositories.</span>
             </h2>
+            <br />
+            <br />
             {/* <h4>
               Followers <span className="dot">public repositories.</span>
             </h4> */}
@@ -64,7 +66,9 @@ export class Github extends Component {
                       {item.language}
                     </Card.Subtitle>
                     <Card.Text>{item.description}</Card.Text>
-                    <Card.Link href={item.html_url}>View Repo</Card.Link>
+                    <Card.Link target="_blank" href={item.html_url}>
+                      View Repo
+                    </Card.Link>
                     {/* <Card.Link href="#">Another Link</Card.Link> */}
                   </Card.Body>
                 </Card>

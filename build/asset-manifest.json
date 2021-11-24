@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project/oxer/react-js/demo/static/css/main.6a27917a.chunk.css",
+    "main.js": "/project/oxer/react-js/demo/static/js/main.dd960708.chunk.js",
+    "main.js.map": "/project/oxer/react-js/demo/static/js/main.dd960708.chunk.js.map",
+    "runtime-main.js": "/project/oxer/react-js/demo/static/js/runtime-main.5fe8d64a.js",
+    "runtime-main.js.map": "/project/oxer/react-js/demo/static/js/runtime-main.5fe8d64a.js.map",
+    "static/css/2.2b084824.chunk.css": "/project/oxer/react-js/demo/static/css/2.2b084824.chunk.css",
+    "static/js/2.548daa66.chunk.js": "/project/oxer/react-js/demo/static/js/2.548daa66.chunk.js",
+    "static/js/2.548daa66.chunk.js.map": "/project/oxer/react-js/demo/static/js/2.548daa66.chunk.js.map",
+    "index.html": "/project/oxer/react-js/demo/index.html",
+    "precache-manifest.8a757c95c00f30b416638bc8558cfb25.js": "/project/oxer/react-js/demo/precache-manifest.8a757c95c00f30b416638bc8558cfb25.js",
+    "service-worker.js": "/project/oxer/react-js/demo/service-worker.js",
+    "static/css/2.2b084824.chunk.css.map": "/project/oxer/react-js/demo/static/css/2.2b084824.chunk.css.map",
+    "static/css/main.6a27917a.chunk.css.map": "/project/oxer/react-js/demo/static/css/main.6a27917a.chunk.css.map",
+    "static/media/style.scss": "/project/oxer/react-js/demo/static/media/oxer.fba0f7c0.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fe8d64a.js",
+    "static/css/2.2b084824.chunk.css",
+    "static/js/2.548daa66.chunk.js",
+    "static/css/main.6a27917a.chunk.css",
+    "static/js/main.dd960708.chunk.js"
+  ]
+}
